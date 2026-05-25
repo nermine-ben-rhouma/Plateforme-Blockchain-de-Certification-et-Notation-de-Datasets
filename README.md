@@ -1,4 +1,4 @@
-Plateforme-Blockchain-de-Certification-et-Notation-de-Datasets
+# Plateforme-Blockchain-de-Certification-et-Notation-de-Datasets
 
 A decentralized web application (dApp) built with Ethereum, Solidity, Hardhat, React.js, and MetaMask for dataset certification, evaluation, and token-based rewards.
 
